@@ -1,5 +1,5 @@
 proxies:
-- name: 8|美国2
+- name: 7|美国2
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg2.mangshe.xyz
@@ -7,7 +7,7 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 8|1
+- name: 7|1
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2055
   server: xjp1.mangshe.xyz
@@ -15,14 +15,30 @@ proxies:
   sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 8|JP
+- name: 7|JP
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778
   server: jp7.dexlos.com
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|DE
+- name: 7|SG_@WangCai_8
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.212.34.63
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2
+  tls: false
+  type: hysteria2
+- name: 7|🇸US_@WangCai_8
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 34.220.246.198
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 7|DE
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056
   server: de.eyucdn.xyz
@@ -30,14 +46,14 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 8| HK
+- name: 7| HK
   password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
   port: 443
   server: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
   sni: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 8,9|@KAFING_2
+- name: 7,8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -47,7 +63,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|SG
+- name: 7|SG
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
   server: sg3.oomz.ru
@@ -55,7 +71,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|TW
+- name: 7|TW
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
   server: tw.oomz.ru
@@ -63,7 +79,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|@bored_vpn
+- name: 8|@bored_vpn
   obfs: salamander
   obfs-password: lmzo7ebpr6m8theh
   password: 3xkqzhpnfhaahx0q
@@ -72,7 +88,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 9|@V2RayyNGvpn🇹🇷
+- name: 8|@V2RayyNGvpn🇹🇷
   obfs: salamander
   obfs-password: T-me-V2RayyNGvpn-ioSniper
   password: 5U7LBgpLNj
@@ -82,7 +98,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: '9|@prrofile_purple   '
+- name: '8|@prrofile_purple   '
   obfs: salamander
   obfs-password: EsimObfs_9mK2x7
   password: EsimHy2Game_7xK9mPq2
@@ -92,7 +108,7 @@ proxies:
   sni: se.esimpson.org
   tls: false
   type: hysteria2
-- name: 9|+@Azarakhsh_Proxy+
+- name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
   password: KevinZakarian
@@ -102,7 +118,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 9|@V2RayyNGvpn🇪
+- name: 8|@V2RayyNGvpn🇪
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: S0Mq06tf1I
@@ -112,7 +128,7 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
-- name: 9|🇩🇪@V2RayyNGvpn🇩🇪
+- name: 8|🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: T-Me-V2RayyNGvpn
@@ -122,7 +138,7 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
-- name: 9| - NL - @FreeOnlineVPN
+- name: 8| - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -132,17 +148,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '9|🇩🇪@V2RayyNGvpn🇩🇪 #1'
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: Z7MFGgpuzh
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  sni: www.wordreference.com
-  tls: false
-  type: hysteria2
-- name: '9|@KAFING_2 #2'
+- name: '8|@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -152,7 +158,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 9|telegram @mtmvpn
+- name: 8|telegram @mtmvpn
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: cFihfSrWtH
@@ -161,7 +167,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '9|🇩🇪@V2RayyNGvpn🇩🇪 #2'
+- name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: dJtElQSz4v
@@ -171,7 +177,7 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
-- name: 9|🇱 @rayhub_ir 0626-7
+- name: 8|🇱 @rayhub_ir 0626-7
   obfs: salamander
   obfs-password: 2a7e8084206388f4
   password: gdubbi2zb6gdp0c8
@@ -181,7 +187,7 @@ proxies:
   sni: gettestin.xxee.ru
   tls: false
   type: hysteria2
-- name: '9|telegram @mtmvpn #1'
+- name: '8|telegram @mtmvpn #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -191,7 +197,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: '9|telegram @mtmvpn #2'
+- name: '8|telegram @mtmvpn #2'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: rQRuZ8nFbC
@@ -200,7 +206,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 9|✅  @vistav2ray  👈👈کانال ما ✅
+- name: 8|✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
@@ -210,7 +216,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: 9|@V2RayyNGvpn🇮
+- name: 8|@V2RayyNGvpn🇮
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: t-me-V2RayyNGvpn
@@ -221,111 +227,103 @@ proxies:
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
-  name: 11|tg频道:@ripaojiedian
+  name: 10|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 11|🇭🇰 香港|@ripaojiedian
+  name: 10|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 11,12|香港3|@ripaojiedian
+- name: 10,11|香港3|@ripaojiedian
   network: tcp
-  password: 333967de4411e1e833244ba4becc20bf
-  port: 2008
-  server: 18.163.100.203
+  password: 230012981ba34c12fec11deca0379005
+  port: 53012
+  server: 54.46.30.217
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 11,12|香港4|@ripaojiedian
+- name: 10,11|香港4|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 27167
-  server: 43.199.45.214
+  port: 50116
+  server: 18.166.59.96
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 11,12|香港5|@ripaojiedian
+- name: 10,11|香港5|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 27167
-  server: 16.162.217.128
+  port: 20744
+  server: 54.46.109.132
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 11,12|日本|@ripaojiedian
+- name: 10,11|日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 51976
-  server: 13.158.45.13
+  port: 47656
+  server: 52.196.252.9
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 11,12|日本2|@ripaojiedian
+- name: 10,11|日本2|@ripaojiedian
   network: tcp
-  password: 333967de4411e1e833244ba4becc20bf
+  password: 230012981ba34c12fec11deca0379005
   port: 3743
-  server: 18.166.209.37
+  server: 54.46.30.217
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 11,12|日本3|@ripaojiedian
+- name: 10,11|日本3|@ripaojiedian
   network: tcp
-  password: 333967de4411e1e833244ba4becc20bf
-  port: 55973
-  server: 43.198.247.168
+  password: 230012981ba34c12fec11deca0379005
+  port: 5701
+  server: 54.46.30.217
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 11,12|新加坡|@ripaojiedian
+- name: 10,11|新加坡2|@ripaojiedian
   network: tcp
-  password: 333967de4411e1e833244ba4becc20bf
+  password: 230012981ba34c12fec11deca0379005
   port: 48738
-  server: 18.166.209.37
+  server: 54.46.30.217
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 11,12|新加坡2|@ripaojiedian
-  network: tcp
-  password: 333967de4411e1e833244ba4becc20bf
-  port: 48738
-  server: 43.198.247.168
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: 11,12|新加坡3|@ripaojiedian
+- name: 10,11|新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 9149
-  server: 54.46.14.161
+  server: 18.162.53.161
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 11,12|美国2|@ripaojiedian
+- name: 10,11|美国2|@ripaojiedian
   network: tcp
-  password: 333967de4411e1e833244ba4becc20bf
+  password: 230012981ba34c12fec11deca0379005
   port: 49277
-  server: 18.163.100.203
+  server: 54.46.30.217
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 11,12|美国3|@ripaojiedian
+- name: 10,11|美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 22657
-  server: 16.162.121.169
+  server: 54.46.109.132
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 2
   cipher: auto
-  name: 12|香港|@ripaojiedian
+  name: 11|香港|@ripaojiedian
   network: tcp
   port: '30807'
   server: v10.hdacd.com
@@ -334,7 +332,7 @@ proxies:
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - client-fingerprint: randomized
-  name: 13|CY_speednode_0001
+  name: 12|CY_speednode_0001
   network: ws
   port: 2095
   server: www.csgo.net
@@ -349,7 +347,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - flow: xtls-rprx-vision
-  name: 13|GB_speednode_0003
+  name: 12|GB_speednode_0003
   port: 7443
   reality-opts:
     public-key: 5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI
@@ -361,126 +359,126 @@ proxies:
   type: vless
   udp: true
   uuid: 6e41151e-ae07-4ea6-910e-7a3986b7bc0d
-- name: 13|RO_speednode_0004
+- name: 12|RO_speednode_0004
   port: 9002
   server: 84.239.49.156
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0005
+- name: 12|RO_speednode_0005
   port: 9002
   server: 84.239.49.234
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0006
+- name: 12|RO_speednode_0006
   port: 9002
   server: 84.239.49.162
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0007
+- name: 12|RO_speednode_0007
   port: 9002
   server: 84.239.49.207
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0008
+- name: 12|RO_speednode_0008
   port: 9002
   server: 84.239.49.239
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0009
+- name: 12|RO_speednode_0009
   port: 9002
   server: 84.239.49.182
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0010
+- name: 12|RO_speednode_0010
   port: 9002
   server: 84.239.49.183
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0011
+- name: 12|RO_speednode_0011
   port: 9002
   server: 84.239.49.254
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0012
+- name: 12|RO_speednode_0012
   port: 9002
   server: 84.239.49.173
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0013
+- name: 12|RO_speednode_0013
   port: 9002
   server: 84.239.49.238
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0014
+- name: 12|RO_speednode_0014
   port: 9002
   server: 84.239.49.166
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0015
+- name: 12|RO_speednode_0015
   port: 9002
   server: 84.239.49.231
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0016
+- name: 12|RO_speednode_0016
   port: 9002
   server: 84.239.49.170
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0017
+- name: 12|RO_speednode_0017
   port: 9002
   server: 84.239.49.178
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0018
+- name: 12|RO_speednode_0018
   port: 9002
   server: 84.239.49.163
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0019
+- name: 12|RO_speednode_0019
   port: 9002
   server: 84.239.49.215
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0020
+- name: 12|RO_speednode_0020
   port: 9002
   server: 84.239.49.211
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 13|RO_speednode_0021
+- name: 12|RO_speednode_0021
   port: 9002
   server: 84.239.49.225
   skip-cert-verify: true
@@ -488,7 +486,7 @@ proxies:
   type: http
   udp: true
 - client-fingerprint: randomized
-  name: 13|US_speednode_0025
+  name: 12|US_speednode_0025
   network: ws
   port: 2095
   server: blog.cloudflare.com
@@ -503,7 +501,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0026
+  name: 12|US_speednode_0026
   network: ws
   port: 2095
   server: www.fbi.gov
@@ -518,7 +516,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0027
+  name: 12|US_speednode_0027
   network: ws
   port: 2095
   server: www.shopify.com
@@ -533,7 +531,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0028
+  name: 12|US_speednode_0028
   network: ws
   port: 2095
   server: www.epicgames.com
@@ -548,7 +546,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0029
+  name: 12|US_speednode_0029
   network: ws
   port: 2095
   server: ns.cloudflare.com
@@ -563,7 +561,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0030
+  name: 12|US_speednode_0030
   network: ws
   port: 2095
   server: cf.090227.xyz
@@ -578,7 +576,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0031
+  name: 12|US_speednode_0031
   network: ws
   port: 2095
   server: cloudflare-dns.com
@@ -593,7 +591,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0032
+  name: 12|US_speednode_0032
   network: ws
   port: 2095
   server: docs.cloudflare.com
@@ -608,7 +606,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0033
+  name: 12|US_speednode_0033
   network: ws
   port: 2095
   server: www.wto.org
@@ -623,7 +621,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0034
+  name: 12|US_speednode_0034
   network: ws
   port: 2095
   server: developers.cloudflare.com
@@ -638,7 +636,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0035
+  name: 12|US_speednode_0035
   network: ws
   port: 2095
   server: support.cloudflare.com
@@ -653,7 +651,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0036
+  name: 12|US_speednode_0036
   network: ws
   port: 2095
   server: cdnjs.com
@@ -668,7 +666,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0037
+  name: 12|US_speednode_0037
   network: ws
   port: 2095
   server: www.npmjs.com
@@ -683,7 +681,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0038
+  name: 12|US_speednode_0038
   network: ws
   port: 2095
   server: www.udemy.com
@@ -698,7 +696,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 13|US_speednode_0039
+  name: 12|US_speednode_0039
   network: ws
   port: 2095
   server: www.whatismyip.net
